@@ -3,16 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "app-plus-plugin.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karsten-bruckmann/app-plus-test.git"
+    "url": "git+https://github.com/karsten-bruckmann/app-plus-plugin-skeleton.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/karsten-bruckmann/app-plus-test/issues"
+    "url": "https://github.com/karsten-bruckmann/app-plus-plugin-skeleton/issues"
   },
-  "homepage": "https://github.com/karsten-bruckmann/app-plus-test#readme"
+  "homepage": "https://github.com/karsten-bruckmann/app-plus-plugin-skeleton#readme"
 }
