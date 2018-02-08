@@ -1,4 +1,4 @@
 function main() {
-    console.log('npm installed plugin');
+    console.log('This is the plugin skeleton. Start your plugin here.');
 }
 module.exports = main;
