@@ -2,7 +2,7 @@
   "name": "app-plus-plugin-skeleton",
   "version": "1.0.0",
   "description": "",
-  "main": "app-plus-plugin.js",
+  "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
