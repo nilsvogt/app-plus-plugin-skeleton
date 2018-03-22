@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/karsten-bruckmann/app-plus-plugin-skeleton#readme",
   "scripts": {
-    "postinstall": "touch postinstall2.sh"
+    "postinstall": "cp . ../../plugins"
   }
 }
